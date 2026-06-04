@@ -41,6 +41,8 @@
 ## 🚀 Featured Projects
 
 - 🎮 Horror School (Unity)
+- 🎮 Game of Life (Java)
+- 🖌️ PaintApp (Java, JavaSwing)
 - ⛏️ Mine Adventure RPG (C#)
 - 🌡️ Raspberry Pi Weather Station
 - 🌐 Web Applications
