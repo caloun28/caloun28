@@ -32,7 +32,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=caloun28&theme=tokyonight&show_icons=true" />
 <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=caloun28&theme=dark&layout=compact" />
 </p>
 
