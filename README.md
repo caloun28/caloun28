@@ -31,9 +31,12 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=caloun28&theme=tokyonight&show_icons=true)
+<p align="center">
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=caloun28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=caloun28&theme=tokyonight&show_icons=true" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=caloun28&theme=dark&layout=compact" />
+
+</p>
 
 ## 🚀 Featured Projects
 - 🎮 Horror School (Unity)
