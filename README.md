@@ -1,6 +1,8 @@
 # About Me
 🎓 SPŠE Ječná Prague 2 student
+
 💻 C#, Java Developer
+
 🎮 Unity Game Developer
 
 ## 🌐 Socials
