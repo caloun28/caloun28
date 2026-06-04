@@ -1,17 +1,13 @@
-# Hi there 👋
-
-🎓 High School Student
-💻 C# Developer
+# About Me
+🎓 SPŠE Ječná Prague 2 student
+💻 C#, Java Developer
 🎮 Unity Game Developer
-🌱 Currently learning Software Architecture and ASP.NET
 
 ## 🌐 Socials
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/honza.caloun)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@honza.caloun)
 
 ## 💻 Tech Stack
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
@@ -33,13 +29,11 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=caloun28&theme=tokyonight&show_icons=true)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=caloun28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🚀 Featured Projects
-
 - 🎮 Horror School (Unity)
 - 🎮 Game of Life (Java)
 - 🖌️ PaintApp (Java, JavaSwing)
