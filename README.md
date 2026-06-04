@@ -1,7 +1,33 @@
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caloun28&show_icons=true&theme=tokyonight" />
+# Hi there 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caloun28&layout=compact&theme=tokyonight" />
+🎓 High School Student
+💻 C# Developer
+🎮 Unity Game Developer
+🌱 Currently learning Software Architecture and ASP.NET
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](TVUJ_LINK)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](TVUJ_LINK)
+
+## 💻 Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=TVUJ_USERNAME&theme=tokyonight&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TVUJ_USERNAME&theme=tokyonight&layout=compact)
+
+## 🚀 Featured Projects
+
+- 🎮 Horror School (Unity)
+- ⛏️ Mine Adventure RPG (C#)
+- 🌡️ Raspberry Pi Weather Station
+- 🌐 Web Applications
