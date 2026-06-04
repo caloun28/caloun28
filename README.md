@@ -21,9 +21,9 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=TVUJ_USERNAME&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=caloun28&theme=tokyonight&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TVUJ_USERNAME&theme=tokyonight&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=caloun28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🚀 Featured Projects
 
